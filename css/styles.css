@@ -59,3 +59,19 @@ img {
 h2 {
   font-family: cursive;
 }
+
+.boost {
+  color: dodgerblue;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+
+.boosteder {
+  color: darkorchid;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 15px;
+}
