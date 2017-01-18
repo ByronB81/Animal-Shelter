@@ -43,9 +43,19 @@ h3 {
 }
 
 .sidebar {
-  width: 15%;
+  width: 12%;
   float: right;
   padding: 4px;
+  margin-right: 15px;
   border: 2px solid lavender;
   background-color: white;
+  box-shadow: 5px 5px 2px #888888;
+}
+
+img {
+  box-shadow: 5px 5px 2px #888888;
+}
+
+h2 {
+  font-family: cursive;
 }
